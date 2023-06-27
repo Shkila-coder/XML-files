@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDiscs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Discs>
+    <Hidden />
+    <Name>Disc A</Name>
+    <FullVolume>100</FullVolume>
+    <Volume>1</Volume>
+  </Discs>
+  <Discs>
+    <Hidden />
+    <Name>Disc B</Name>
+    <FullVolume>200</FullVolume>
+    <Volume>2</Volume>
+  </Discs>
+  <Discs>
+    <Hidden />
+    <Name>Disc C</Name>
+    <FullVolume>300</FullVolume>
+    <Volume>3</Volume>
+  </Discs>
+  <Discs>
+    <Hidden />
+    <Name>Локальный диск (Disc A:)</Name>
+    <FullVolume>100</FullVolume>
+    <Volume>1</Volume>
+  </Discs>
+  <Discs>
+    <Hidden />
+    <Name>Локальный диск (Disc A:)</Name>
+    <FullVolume>100</FullVolume>
+    <Volume>1</Volume>
+  </Discs>
+  <Discs>
+    <Hidden />
+    <Name>Локальный диск (Disc A:)</Name>
+    <FullVolume>100</FullVolume>
+    <Volume>1</Volume>
+  </Discs>
+</ArrayOfDiscs>

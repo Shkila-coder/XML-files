@@ -1,0 +1,11 @@
+C:\Users\Пользователь\source\repos\the1stC#\Kyrsach\bin\Debug\Kyrsach.exe.config
+C:\Users\Пользователь\source\repos\the1stC#\Kyrsach\bin\Debug\Kyrsach.exe
+C:\Users\Пользователь\source\repos\the1stC#\Kyrsach\bin\Debug\Kyrsach.pdb
+C:\Users\Пользователь\source\repos\the1stC#\Kyrsach\obj\Debug\Kyrsach.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\the1stC#\Kyrsach\obj\Debug\Kyrsach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\the1stC#\Kyrsach\obj\Debug\Kyrsach.Form1.resources
+C:\Users\Пользователь\source\repos\the1stC#\Kyrsach\obj\Debug\Kyrsach.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\the1stC#\Kyrsach\obj\Debug\Kyrsach.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\the1stC#\Kyrsach\obj\Debug\Kyrsach.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\the1stC#\Kyrsach\obj\Debug\Kyrsach.exe
+C:\Users\Пользователь\source\repos\the1stC#\Kyrsach\obj\Debug\Kyrsach.pdb

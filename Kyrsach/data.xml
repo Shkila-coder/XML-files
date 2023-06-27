@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfDiscs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Discs>
+		<Hidden />
+		<Name>Disc 1</Name>
+		<Volume>1</Volume>
+		<FullVolume>100</FullVolume>
+	</Discs>
+	<Discs>
+		<Hidden />
+		<Name>Disc 2</Name>
+		<Volume>2</Volume>
+		<FullVolume>200</FullVolume>
+	</Discs>
+</ArrayOfDiscs>
